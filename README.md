@@ -34,7 +34,7 @@ The following steps were followed to build the fraud detection system:
      - Logistic Regression
      - Decision Tree
      - Random Forest
-     - (Optional) XGBoost / SVM
+     - (Optional) XGBoost
 
 4. **Model Evaluation**
    - Accuracy
